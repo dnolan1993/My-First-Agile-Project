@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-In order to **receive benefit** as a **role**, I can **capability**.
+In order to **receive benefit** as a **role**, I can **action**.
 
 ## Acceptance Criteria:
   <ul>
